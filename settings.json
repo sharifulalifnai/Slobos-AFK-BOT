@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "magna_smp.aternos.me:17842",
+    "ip": "magna_smp.aternos.me",
     "port": 17842,
     "version": "1.21.1"
   },
