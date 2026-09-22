@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "yesman",
-    "password": "",
+    "password": "0",
     "type": "offline"
   },
   "server": {
